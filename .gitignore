@@ -1,0 +1,5 @@
+.env
+blocked_ips.txt
+security.log
+__pycache__/
+.venv/
